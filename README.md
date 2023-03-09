@@ -15,7 +15,7 @@ After that, to play Freeway is simple! <br><br>
 
 
 
-*Arrows UP and DOWN to move the cow*.
+*Use the arrows UP, DOWN, LEFT and RIGHT to move the cow*.
 
 
 
